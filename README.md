@@ -43,7 +43,7 @@ To fetch historical and order book data:
 3. Run the Python script to retrieve the data:
 
    ```sh
-   python fetchdata.py
+   python scripts/fetchdata.py
    ```
 
 ## Compiling the Project
